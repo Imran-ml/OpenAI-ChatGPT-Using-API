@@ -1,0 +1,5 @@
+openai
+matplotlib
+pillow
+urllib3
+Python-IO
